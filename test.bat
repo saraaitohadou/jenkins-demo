@@ -1,4 +1,4 @@
-===== PIPELINE JENKINS =====
-Build en cours...
-Test OK
-Deploy simul‚
+echo ===== PIPELINE JENKINS =====
+echo Build en cours...
+echo Test OK
+echo Deploy simulÃ©
