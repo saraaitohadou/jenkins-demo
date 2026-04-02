@@ -1,2 +1,6 @@
 echo ===== PIPELINE JENKINS =====
-echo SARA FINAL OK
+echo Build en cours...
+echo Test OK
+echo Deploy simule
+echo test final propre
+echo Nouveau build declenche automatiquement
