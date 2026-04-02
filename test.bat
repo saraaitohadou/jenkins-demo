@@ -4,3 +4,4 @@ echo Test OK
 echo Deploy simule
 echo test final propre
 echo Nouveau build declenche automatiquement
+cascascas
